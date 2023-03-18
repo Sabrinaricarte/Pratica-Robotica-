@@ -1,2 +1,2 @@
-# Pr-ticas-Rob-tica.
+# Praticas-Robótica.
 Código Semáforo
